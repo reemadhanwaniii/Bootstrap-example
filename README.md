@@ -1,4 +1,4 @@
-`
+
     -> Bootstarp is a CSS framework
     -> script tag should be put last inside body tag
     -> containers (bootstrap docs)
@@ -10,4 +10,3 @@
 
  Todo : 
     Right buttons are not properly aligned there is some extra space coming we need to remove it   
-`
